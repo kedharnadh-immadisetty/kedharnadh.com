@@ -1,0 +1,3 @@
+# my portfolio
+hello! welcome to my portfolio.
+# this is jus made to see the commit changes...
